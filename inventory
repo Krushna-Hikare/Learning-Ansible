@@ -1,0 +1,5 @@
+[dbserver] //This is called as grouping
+"private ip-address of db EC2 instance"
+
+[devserver]
+"private ip-address of dev EC2 instance"
